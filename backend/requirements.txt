@@ -2,3 +2,7 @@ fastapi
 uvicorn
 langgraph
 pydantic
+langgraph
+langchain
+langchain-openai
+python-dotenv
